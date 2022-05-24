@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning lua
 - 💞️ I’m looking to collaborate on stuff
-- 📫 How to reach me - bob.plop@mail.com
+- 📫 How to reach me - I dont give people my email, thank you.
 
 <!---
 linuxnoob121/linuxnoob121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
