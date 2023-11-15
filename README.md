@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @linuxnoob121
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning lua
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on stuff
 - 📫 How to reach me - I dont give people my email, thank you.
 
